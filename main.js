@@ -1,1 +1,2 @@
-alert("Uwielbiam JavaScript!");
+let konsola = "Uwielbiam JavaScript!";
+console.log(konsola);
